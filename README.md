@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Priyanshi Raj</h1>
+<img  alt="coding" width="1000" height="400" src="https://github.com/Priyanshi-R/Priyanshi-R/blob/main/PRIYANSHI%20RAJ.jpg">
+<hr>
 <h3 align="center">Aspiring Software Developer with a Passion for Web Development and Machine Learning</h3>
   <ul>
    <li><h4>I am currently pursuing a Bachelor of Technology in Information Technology from KIIT University</h4></li> 
